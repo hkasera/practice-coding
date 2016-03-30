@@ -8,6 +8,8 @@ Lists various websites where you can practice coding.
 * [CodeFights](https://codefights.com/home)
 * [TopCoder](https://www.topcoder.com/)
 * [Project Euler](https://projecteuler.net/)
+* [Dash](https://dash.generalassemb.ly/)
+* [Codewars](http://www.codewars.com/)
 
 
 ## Contributing
