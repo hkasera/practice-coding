@@ -7,6 +7,7 @@ Lists various websites where you can practice coding.
 * [HackerEarth](https://www.hackerearth.com/)
 * [CodeFights](https://codefights.com/home)
 * [TopCoder](https://www.topcoder.com/)
+* [Project Euler](https://projecteuler.net/)
 
 
 ## Contributing
