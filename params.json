@@ -1,0 +1,6 @@
+{
+  "name": "Practicecoding",
+  "tagline": "A repository that lists various websites where you can practice coding",
+  "body": "### Welcome to Practice Coding.\r\nCheck out various websites where you can practice coding.\r\n\r\n### List of Websites\r\n* [HackerRank](https://www.hackerrank.com/)\r\n* [HackerEarth](https://www.hackerearth.com/)\r\n* [CodeFights](https://codefights.com/home)\r\n* [TopCoder](https://www.topcoder.com/)\r\n* [Project Euler](https://projecteuler.net/)\r\n* [Dash](https://dash.generalassemb.ly/)\r\n* [Codewars](http://www.codewars.com/)\r\n\r\n### Author and Contributor\r\nHarshita Kasera (@hkasera)\r\n\r\n### Contributing\r\n\r\n:+1::tada: First off, thanks for taking the time to contribute! :tada::+1:\r\n\r\nPlease create a new issue explaining what change you are going to make. Once you get a go ahead, please submit a Pull Request with a clear list of what you've done. Please make sure all the links are working and up to date.\r\n\r\nThank you for taking out time to help this project!\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
