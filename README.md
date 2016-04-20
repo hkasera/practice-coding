@@ -20,3 +20,12 @@ Please create a new issue explaining what change you are going to make. Once you
 
 Thank you for taking out time to help this project!
 
+## License
+
+[MIT](https://github.com/hkasera/practice-coding/blob/master/LICENSE.md)
+
+
+## Author
+
+[@hkasera](https://github.com/hkasera/)
+
