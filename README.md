@@ -16,7 +16,12 @@ Lists various websites where you can practice coding.
 
 :+1::tada: First off, thanks for taking the time to contribute! :tada::+1:
 
-Please create a new issue explaining what change you are going to make. Once you get a go ahead, please submit a Pull Request with a clear list of what you've done. Please make sure all the links are working and up to date.
+* Please create a new issue mentioning the change. 
+  * In case you are adding a new website, please mention the new website. 
+  * In case you are fixing a broken link to a website, please mention the broken as well as the correct link to the website.
+* Once it is acknowledged, please submit a Pull Request with the same change. 
+
+`Note : Please make sure all the links are working and up to date.` 
 
 Thank you for taking out time to help this project!
 
