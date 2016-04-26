@@ -11,6 +11,8 @@ Lists various websites where you can practice coding.
 * [Dash](https://dash.generalassemb.ly/)
 * [Codewars](http://www.codewars.com/)
 * [Codeacademy](http://www.codecademy.com/)
+* [Checkio](https://checkio.org/) (Python only)
+* [CodeEval](https://www.codeeval.com/)
 
 
 ## Contributing
