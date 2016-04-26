@@ -10,6 +10,7 @@ Lists various websites where you can practice coding.
 * [Project Euler](https://projecteuler.net/)
 * [Dash](https://dash.generalassemb.ly/)
 * [Codewars](http://www.codewars.com/)
+* [Codeacademy](http://www.codecademy.com/)
 
 
 ## Contributing
