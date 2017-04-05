@@ -3,6 +3,7 @@ Lists various websites where you can practice coding.
 
 
 ## Websites
+* [LeetCode](https://leetcode.com/)
 * [HackerRank](https://www.hackerrank.com/)
 * [HackerEarth](https://www.hackerearth.com/)
 * [CodeFights](https://codefights.com/home)
@@ -14,6 +15,8 @@ Lists various websites where you can practice coding.
 * [Checkio](https://checkio.org/) (Python only)
 * [CodeEval](https://www.codeeval.com/)
 * [FreeCodeCamp](https://www.freecodecamp.com/)
+* [CodingBat](http://codingbat.com/)
+* [w3resource](http://www.w3resource.com/)
 
 
 ## Contributing
